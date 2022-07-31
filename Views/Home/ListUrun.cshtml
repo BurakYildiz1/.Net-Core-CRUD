@@ -1,0 +1,37 @@
+﻿@using BkmOdev.Models;
+@model UrunKategoriModel
+@{
+    ViewData["Title"] = "ListUrun";
+}
+
+<h1>Kategori Ürünleri</h1>
+
+<a asp-controller="Home" asp-action="Create" class="btn btn-success float-right"><i class="fa fa-user-plus"></i> Ürün Ekle</a>
+<table class="table table-bordered table-hover">
+    <thead>
+        <tr>
+            <th>id</th>
+            <th>Name</th>
+            <th>kategori id</th>
+            <th>kategori</th>
+            <th>is Delete</th>
+            <th>İşlemler</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var urun in Model.Uruns)
+        {
+            <tr>
+                <td>@urun.Id</td>
+                <td>@urun.Name</td>
+                <td>@urun.KategoriId</td>
+                <td>@(Model.Kategoris.FirstOrDefault(x=>x.Id == urun.KategoriId).Name)</td>
+                <td>@urun.IsDelete</td>
+                <td>
+                    <a href="~/Home/Edit?Id=@urun.Id" class="btn btn-dark"><i class="fa fa-cogs"></i> Düzenle</a>
+                    <a href="~/Home/Delete/@urun.Id" class="btn btn-danger"><i class="fa fa-trash"></i> Sil</a>
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>

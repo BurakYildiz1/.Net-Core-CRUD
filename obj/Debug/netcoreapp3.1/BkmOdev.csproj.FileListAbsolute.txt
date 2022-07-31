@@ -1,0 +1,233 @@
+C:\Users\irem\OneDrive\Masaüstü\.net projeler\BkmOdev\BkmOdev\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\irem\OneDrive\Masaüstü\.net projeler\BkmOdev\BkmOdev\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\irem\OneDrive\Masaüstü\.net projeler\BkmOdev\BkmOdev\bin\Debug\netcoreapp3.1\BkmOdev.exe
+C:\Users\irem\OneDrive\Masaüstü\.net projeler\BkmOdev\BkmOdev\bin\Debug\netcoreapp3.1\BkmOdev.deps.json
+C:\Users\irem\OneDrive\Masaüstü\.net projeler\BkmOdev\BkmOdev\bin\Debug\netcoreapp3.1\BkmOdev.runtimeconfig.json
+C:\Users\irem\OneDrive\Masaüstü\.net projeler\BkmOdev\BkmOdev\bin\Debug\netcoreapp3.1\BkmOdev.runtimeconfig.dev.json
+C:\Users\irem\OneDrive\Masaüstü\.net projeler\BkmOdev\BkmOdev\bin\Debug\netcoreapp3.1\BkmOdev.dll
+C:\Users\irem\OneDrive\Masaüstü\.net projeler\BkmOdev\BkmOdev\bin\Debug\netcoreapp3.1\BkmOdev.pdb
+C:\Users\irem\OneDrive\Masaüstü\.net projeler\BkmOdev\BkmOdev\bin\Debug\netcoreapp3.1\BkmOdev.Views.dll
+C:\Users\irem\OneDrive\Masaüstü\.net projeler\BkmOdev\BkmOdev\bin\Debug\netcoreapp3.1\BkmOdev.Views.pdb
+C:\Users\irem\OneDrive\Masaüstü\.net projeler\BkmOdev\BkmOdev\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\irem\OneDrive\Masaüstü\.net projeler\BkmOdev\BkmOdev\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+C:\Users\irem\OneDrive\Masaüstü\.net projeler\BkmOdev\BkmOdev\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\irem\OneDrive\Masaüstü\.net projeler\BkmOdev\BkmOdev\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\irem\OneDrive\Masaüstü\.net projeler\BkmOdev\BkmOdev\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\irem\OneDrive\Masaüstü\.net projeler\BkmOdev\BkmOdev\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\irem\OneDrive\Masaüstü\.net projeler\BkmOdev\BkmOdev\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\irem\OneDrive\Masaüstü\.net projeler\BkmOdev\BkmOdev\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\Users\irem\OneDrive\Masaüstü\.net projeler\BkmOdev\BkmOdev\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\irem\OneDrive\Masaüstü\.net projeler\BkmOdev\BkmOdev\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+C:\Users\irem\OneDrive\Masaüstü\.net projeler\BkmOdev\BkmOdev\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\irem\OneDrive\Masaüstü\.net projeler\BkmOdev\BkmOdev\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\irem\OneDrive\Masaüstü\.net projeler\BkmOdev\BkmOdev\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\irem\OneDrive\Masaüstü\.net projeler\BkmOdev\BkmOdev\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\irem\OneDrive\Masaüstü\.net projeler\BkmOdev\BkmOdev\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\irem\OneDrive\Masaüstü\.net projeler\BkmOdev\BkmOdev\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+C:\Users\irem\OneDrive\Masaüstü\.net projeler\BkmOdev\BkmOdev\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+C:\Users\irem\OneDrive\Masaüstü\.net projeler\BkmOdev\BkmOdev\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+C:\Users\irem\OneDrive\Masaüstü\.net projeler\BkmOdev\BkmOdev\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+C:\Users\irem\OneDrive\Masaüstü\.net projeler\BkmOdev\BkmOdev\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+C:\Users\irem\OneDrive\Masaüstü\.net projeler\BkmOdev\BkmOdev\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+C:\Users\irem\OneDrive\Masaüstü\.net projeler\BkmOdev\BkmOdev\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\irem\OneDrive\Masaüstü\.net projeler\BkmOdev\BkmOdev\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\irem\OneDrive\Masaüstü\.net projeler\BkmOdev\BkmOdev\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\irem\OneDrive\Masaüstü\.net projeler\BkmOdev\BkmOdev\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\irem\OneDrive\Masaüstü\.net projeler\BkmOdev\BkmOdev\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\irem\OneDrive\Masaüstü\.net projeler\BkmOdev\BkmOdev\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\irem\OneDrive\Masaüstü\.net projeler\BkmOdev\BkmOdev\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\irem\OneDrive\Masaüstü\.net projeler\BkmOdev\BkmOdev\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\irem\OneDrive\Masaüstü\.net projeler\BkmOdev\BkmOdev\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\irem\OneDrive\Masaüstü\.net projeler\BkmOdev\BkmOdev\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\irem\OneDrive\Masaüstü\.net projeler\BkmOdev\BkmOdev\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\irem\OneDrive\Masaüstü\.net projeler\BkmOdev\BkmOdev\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\irem\OneDrive\Masaüstü\.net projeler\BkmOdev\BkmOdev\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\irem\OneDrive\Masaüstü\.net projeler\BkmOdev\BkmOdev\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\irem\OneDrive\Masaüstü\.net projeler\BkmOdev\BkmOdev\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\irem\OneDrive\Masaüstü\.net projeler\BkmOdev\BkmOdev\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\irem\OneDrive\Masaüstü\.net projeler\BkmOdev\BkmOdev\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\irem\OneDrive\Masaüstü\.net projeler\BkmOdev\BkmOdev\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\irem\OneDrive\Masaüstü\.net projeler\BkmOdev\BkmOdev\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\irem\OneDrive\Masaüstü\.net projeler\BkmOdev\BkmOdev\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\irem\OneDrive\Masaüstü\.net projeler\BkmOdev\BkmOdev\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\irem\OneDrive\Masaüstü\.net projeler\BkmOdev\BkmOdev\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\irem\OneDrive\Masaüstü\.net projeler\BkmOdev\BkmOdev\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\irem\OneDrive\Masaüstü\.net projeler\BkmOdev\BkmOdev\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\irem\OneDrive\Masaüstü\.net projeler\BkmOdev\BkmOdev\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\irem\OneDrive\Masaüstü\.net projeler\BkmOdev\BkmOdev\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\irem\OneDrive\Masaüstü\.net projeler\BkmOdev\BkmOdev\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\irem\OneDrive\Masaüstü\.net projeler\BkmOdev\BkmOdev\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\irem\OneDrive\Masaüstü\.net projeler\BkmOdev\BkmOdev\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\irem\OneDrive\Masaüstü\.net projeler\BkmOdev\BkmOdev\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\irem\OneDrive\Masaüstü\.net projeler\BkmOdev\BkmOdev\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\irem\OneDrive\Masaüstü\.net projeler\BkmOdev\BkmOdev\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\irem\OneDrive\Masaüstü\.net projeler\BkmOdev\BkmOdev\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\irem\OneDrive\Masaüstü\.net projeler\BkmOdev\BkmOdev\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\irem\OneDrive\Masaüstü\.net projeler\BkmOdev\BkmOdev\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\irem\OneDrive\Masaüstü\.net projeler\BkmOdev\BkmOdev\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\irem\OneDrive\Masaüstü\.net projeler\BkmOdev\BkmOdev\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\irem\OneDrive\Masaüstü\.net projeler\BkmOdev\BkmOdev\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\irem\OneDrive\Masaüstü\.net projeler\BkmOdev\BkmOdev\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\irem\OneDrive\Masaüstü\.net projeler\BkmOdev\BkmOdev\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\irem\OneDrive\Masaüstü\.net projeler\BkmOdev\BkmOdev\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\irem\OneDrive\Masaüstü\.net projeler\BkmOdev\BkmOdev\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\irem\OneDrive\Masaüstü\.net projeler\BkmOdev\BkmOdev\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\irem\OneDrive\Masaüstü\.net projeler\BkmOdev\BkmOdev\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\irem\OneDrive\Masaüstü\.net projeler\BkmOdev\BkmOdev\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\irem\OneDrive\Masaüstü\.net projeler\BkmOdev\BkmOdev\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\irem\OneDrive\Masaüstü\.net projeler\BkmOdev\BkmOdev\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\irem\OneDrive\Masaüstü\.net projeler\BkmOdev\BkmOdev\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\irem\OneDrive\Masaüstü\.net projeler\BkmOdev\BkmOdev\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\irem\OneDrive\Masaüstü\.net projeler\BkmOdev\BkmOdev\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\irem\OneDrive\Masaüstü\.net projeler\BkmOdev\BkmOdev\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\irem\OneDrive\Masaüstü\.net projeler\BkmOdev\BkmOdev\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\irem\OneDrive\Masaüstü\.net projeler\BkmOdev\BkmOdev\obj\Debug\netcoreapp3.1\BkmOdev.csproj.AssemblyReference.cache
+C:\Users\irem\OneDrive\Masaüstü\.net projeler\BkmOdev\BkmOdev\obj\Debug\netcoreapp3.1\BkmOdev.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\irem\OneDrive\Masaüstü\.net projeler\BkmOdev\BkmOdev\obj\Debug\netcoreapp3.1\BkmOdev.AssemblyInfoInputs.cache
+C:\Users\irem\OneDrive\Masaüstü\.net projeler\BkmOdev\BkmOdev\obj\Debug\netcoreapp3.1\BkmOdev.AssemblyInfo.cs
+C:\Users\irem\OneDrive\Masaüstü\.net projeler\BkmOdev\BkmOdev\obj\Debug\netcoreapp3.1\BkmOdev.csproj.CoreCompileInputs.cache
+C:\Users\irem\OneDrive\Masaüstü\.net projeler\BkmOdev\BkmOdev\obj\Debug\netcoreapp3.1\BkmOdev.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\irem\OneDrive\Masaüstü\.net projeler\BkmOdev\BkmOdev\obj\Debug\netcoreapp3.1\BkmOdev.RazorAssemblyInfo.cache
+C:\Users\irem\OneDrive\Masaüstü\.net projeler\BkmOdev\BkmOdev\obj\Debug\netcoreapp3.1\BkmOdev.RazorAssemblyInfo.cs
+C:\Users\irem\OneDrive\Masaüstü\.net projeler\BkmOdev\BkmOdev\obj\Debug\netcoreapp3.1\staticwebassets\BkmOdev.StaticWebAssets.Manifest.cache
+C:\Users\irem\OneDrive\Masaüstü\.net projeler\BkmOdev\BkmOdev\obj\Debug\netcoreapp3.1\BkmOdev.TagHelpers.input.cache
+C:\Users\irem\OneDrive\Masaüstü\.net projeler\BkmOdev\BkmOdev\obj\Debug\netcoreapp3.1\BkmOdev.TagHelpers.output.cache
+C:\Users\irem\OneDrive\Masaüstü\.net projeler\BkmOdev\BkmOdev\obj\Debug\netcoreapp3.1\BkmOdev.RazorCoreGenerate.cache
+C:\Users\irem\OneDrive\Masaüstü\.net projeler\BkmOdev\BkmOdev\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\irem\OneDrive\Masaüstü\.net projeler\BkmOdev\BkmOdev\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\irem\OneDrive\Masaüstü\.net projeler\BkmOdev\BkmOdev\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\irem\OneDrive\Masaüstü\.net projeler\BkmOdev\BkmOdev\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\irem\OneDrive\Masaüstü\.net projeler\BkmOdev\BkmOdev\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\irem\OneDrive\Masaüstü\.net projeler\BkmOdev\BkmOdev\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\irem\OneDrive\Masaüstü\.net projeler\BkmOdev\BkmOdev\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\irem\OneDrive\Masaüstü\.net projeler\BkmOdev\BkmOdev\obj\Debug\netcoreapp3.1\BkmOdev.RazorTargetAssemblyInfo.cache
+C:\Users\irem\OneDrive\Masaüstü\.net projeler\BkmOdev\BkmOdev\obj\Debug\netcoreapp3.1\BkmOdev.RazorTargetAssemblyInfo.cs
+C:\Users\irem\OneDrive\Masaüstü\.net projeler\BkmOdev\BkmOdev\obj\Debug\netcoreapp3.1\BkmOdev.Views.pdb
+C:\Users\irem\OneDrive\Masaüstü\.net projeler\BkmOdev\BkmOdev\obj\Debug\netcoreapp3.1\BkmOdev.csproj.CopyComplete
+C:\Users\irem\OneDrive\Masaüstü\.net projeler\BkmOdev\BkmOdev\obj\Debug\netcoreapp3.1\BkmOdev.dll
+C:\Users\irem\OneDrive\Masaüstü\.net projeler\BkmOdev\BkmOdev\obj\Debug\netcoreapp3.1\BkmOdev.pdb
+C:\Users\irem\OneDrive\Masaüstü\.net projeler\BkmOdev\BkmOdev\obj\Debug\netcoreapp3.1\BkmOdev.genruntimeconfig.cache
+C:\Users\irem\OneDrive\Masaüstü\.net projeler\BkmOdev\BkmOdev\obj\Debug\netcoreapp3.1\Razor\Views\Home\List.cshtml.g.cs
+C:\Users\irem\OneDrive\Masaüstü\.net projeler\BkmOdev\BkmOdev\obj\Debug\netcoreapp3.1\Razor\Views\Home\Create.cshtml.g.cs
+C:\Users\irem\OneDrive\Masaüstü\.net projeler\BkmOdev\BkmOdev\obj\Debug\netcoreapp3.1\Razor\Views\Home\Edit.cshtml.g.cs
+C:\Users\irem\OneDrive\Masaüstü\.net projeler\BkmOdev\BkmOdev\obj\Debug\netcoreapp3.1\Razor\Views\Home\EditKategori.cshtml.g.cs
+C:\Users\irem\OneDrive\Masaüstü\.net projeler\BkmOdev\BkmOdev\obj\Debug\netcoreapp3.1\Razor\Views\Home\CreateKategori.cshtml.g.cs
+C:\Users\irem\OneDrive\Masaüstü\.net projeler\BkmOdev\BkmOdev\obj\Debug\netcoreapp3.1\Razor\Views\Home\ListKategoriler.cshtml.g.cs
+C:\Users\cang3\Desktop\BkmOdev\BkmOdev\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\cang3\Desktop\BkmOdev\BkmOdev\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\cang3\Desktop\BkmOdev\BkmOdev\bin\Debug\netcoreapp3.1\BkmOdev.exe
+C:\Users\cang3\Desktop\BkmOdev\BkmOdev\bin\Debug\netcoreapp3.1\BkmOdev.deps.json
+C:\Users\cang3\Desktop\BkmOdev\BkmOdev\bin\Debug\netcoreapp3.1\BkmOdev.runtimeconfig.json
+C:\Users\cang3\Desktop\BkmOdev\BkmOdev\bin\Debug\netcoreapp3.1\BkmOdev.runtimeconfig.dev.json
+C:\Users\cang3\Desktop\BkmOdev\BkmOdev\bin\Debug\netcoreapp3.1\BkmOdev.dll
+C:\Users\cang3\Desktop\BkmOdev\BkmOdev\bin\Debug\netcoreapp3.1\BkmOdev.pdb
+C:\Users\cang3\Desktop\BkmOdev\BkmOdev\bin\Debug\netcoreapp3.1\BkmOdev.Views.dll
+C:\Users\cang3\Desktop\BkmOdev\BkmOdev\bin\Debug\netcoreapp3.1\BkmOdev.Views.pdb
+C:\Users\cang3\Desktop\BkmOdev\BkmOdev\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\cang3\Desktop\BkmOdev\BkmOdev\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+C:\Users\cang3\Desktop\BkmOdev\BkmOdev\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\cang3\Desktop\BkmOdev\BkmOdev\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\cang3\Desktop\BkmOdev\BkmOdev\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\cang3\Desktop\BkmOdev\BkmOdev\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\cang3\Desktop\BkmOdev\BkmOdev\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\cang3\Desktop\BkmOdev\BkmOdev\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\Users\cang3\Desktop\BkmOdev\BkmOdev\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\cang3\Desktop\BkmOdev\BkmOdev\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+C:\Users\cang3\Desktop\BkmOdev\BkmOdev\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\cang3\Desktop\BkmOdev\BkmOdev\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\cang3\Desktop\BkmOdev\BkmOdev\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\cang3\Desktop\BkmOdev\BkmOdev\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\cang3\Desktop\BkmOdev\BkmOdev\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\cang3\Desktop\BkmOdev\BkmOdev\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+C:\Users\cang3\Desktop\BkmOdev\BkmOdev\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+C:\Users\cang3\Desktop\BkmOdev\BkmOdev\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+C:\Users\cang3\Desktop\BkmOdev\BkmOdev\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+C:\Users\cang3\Desktop\BkmOdev\BkmOdev\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+C:\Users\cang3\Desktop\BkmOdev\BkmOdev\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+C:\Users\cang3\Desktop\BkmOdev\BkmOdev\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\cang3\Desktop\BkmOdev\BkmOdev\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\cang3\Desktop\BkmOdev\BkmOdev\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\cang3\Desktop\BkmOdev\BkmOdev\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\cang3\Desktop\BkmOdev\BkmOdev\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\cang3\Desktop\BkmOdev\BkmOdev\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\cang3\Desktop\BkmOdev\BkmOdev\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\cang3\Desktop\BkmOdev\BkmOdev\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\cang3\Desktop\BkmOdev\BkmOdev\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\cang3\Desktop\BkmOdev\BkmOdev\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\cang3\Desktop\BkmOdev\BkmOdev\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\cang3\Desktop\BkmOdev\BkmOdev\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\cang3\Desktop\BkmOdev\BkmOdev\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\cang3\Desktop\BkmOdev\BkmOdev\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\cang3\Desktop\BkmOdev\BkmOdev\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\cang3\Desktop\BkmOdev\BkmOdev\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\cang3\Desktop\BkmOdev\BkmOdev\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\cang3\Desktop\BkmOdev\BkmOdev\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\cang3\Desktop\BkmOdev\BkmOdev\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\cang3\Desktop\BkmOdev\BkmOdev\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\cang3\Desktop\BkmOdev\BkmOdev\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\cang3\Desktop\BkmOdev\BkmOdev\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\cang3\Desktop\BkmOdev\BkmOdev\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\cang3\Desktop\BkmOdev\BkmOdev\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\cang3\Desktop\BkmOdev\BkmOdev\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\cang3\Desktop\BkmOdev\BkmOdev\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\cang3\Desktop\BkmOdev\BkmOdev\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\cang3\Desktop\BkmOdev\BkmOdev\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\cang3\Desktop\BkmOdev\BkmOdev\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\cang3\Desktop\BkmOdev\BkmOdev\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\cang3\Desktop\BkmOdev\BkmOdev\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\cang3\Desktop\BkmOdev\BkmOdev\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\cang3\Desktop\BkmOdev\BkmOdev\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\cang3\Desktop\BkmOdev\BkmOdev\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\cang3\Desktop\BkmOdev\BkmOdev\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\cang3\Desktop\BkmOdev\BkmOdev\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\cang3\Desktop\BkmOdev\BkmOdev\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\cang3\Desktop\BkmOdev\BkmOdev\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\cang3\Desktop\BkmOdev\BkmOdev\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\cang3\Desktop\BkmOdev\BkmOdev\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\cang3\Desktop\BkmOdev\BkmOdev\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\cang3\Desktop\BkmOdev\BkmOdev\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\cang3\Desktop\BkmOdev\BkmOdev\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\cang3\Desktop\BkmOdev\BkmOdev\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\cang3\Desktop\BkmOdev\BkmOdev\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\cang3\Desktop\BkmOdev\BkmOdev\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\cang3\Desktop\BkmOdev\BkmOdev\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\cang3\Desktop\BkmOdev\BkmOdev\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\cang3\Desktop\BkmOdev\BkmOdev\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\cang3\Desktop\BkmOdev\BkmOdev\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\cang3\Desktop\BkmOdev\BkmOdev\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\cang3\Desktop\BkmOdev\BkmOdev\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\cang3\Desktop\BkmOdev\BkmOdev\obj\Debug\netcoreapp3.1\BkmOdev.csproj.AssemblyReference.cache
+C:\Users\cang3\Desktop\BkmOdev\BkmOdev\obj\Debug\netcoreapp3.1\BkmOdev.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cang3\Desktop\BkmOdev\BkmOdev\obj\Debug\netcoreapp3.1\BkmOdev.AssemblyInfoInputs.cache
+C:\Users\cang3\Desktop\BkmOdev\BkmOdev\obj\Debug\netcoreapp3.1\BkmOdev.AssemblyInfo.cs
+C:\Users\cang3\Desktop\BkmOdev\BkmOdev\obj\Debug\netcoreapp3.1\BkmOdev.csproj.CoreCompileInputs.cache
+C:\Users\cang3\Desktop\BkmOdev\BkmOdev\obj\Debug\netcoreapp3.1\BkmOdev.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\cang3\Desktop\BkmOdev\BkmOdev\obj\Debug\netcoreapp3.1\BkmOdev.RazorAssemblyInfo.cache
+C:\Users\cang3\Desktop\BkmOdev\BkmOdev\obj\Debug\netcoreapp3.1\BkmOdev.RazorAssemblyInfo.cs
+C:\Users\cang3\Desktop\BkmOdev\BkmOdev\obj\Debug\netcoreapp3.1\staticwebassets\BkmOdev.StaticWebAssets.Manifest.cache
+C:\Users\cang3\Desktop\BkmOdev\BkmOdev\obj\Debug\netcoreapp3.1\staticwebassets\BkmOdev.StaticWebAssets.xml
+C:\Users\cang3\Desktop\BkmOdev\BkmOdev\obj\Debug\netcoreapp3.1\scopedcss\bundle\BkmOdev.styles.css
+C:\Users\cang3\Desktop\BkmOdev\BkmOdev\obj\Debug\netcoreapp3.1\BkmOdev.TagHelpers.input.cache
+C:\Users\cang3\Desktop\BkmOdev\BkmOdev\obj\Debug\netcoreapp3.1\BkmOdev.TagHelpers.output.cache
+C:\Users\cang3\Desktop\BkmOdev\BkmOdev\obj\Debug\netcoreapp3.1\BkmOdev.RazorCoreGenerate.cache
+C:\Users\cang3\Desktop\BkmOdev\BkmOdev\obj\Debug\netcoreapp3.1\Razor\Views\Home\Create.cshtml.g.cs
+C:\Users\cang3\Desktop\BkmOdev\BkmOdev\obj\Debug\netcoreapp3.1\Razor\Views\Home\CreateKategori.cshtml.g.cs
+C:\Users\cang3\Desktop\BkmOdev\BkmOdev\obj\Debug\netcoreapp3.1\Razor\Views\Home\Edit.cshtml.g.cs
+C:\Users\cang3\Desktop\BkmOdev\BkmOdev\obj\Debug\netcoreapp3.1\Razor\Views\Home\EditKategori.cshtml.g.cs
+C:\Users\cang3\Desktop\BkmOdev\BkmOdev\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\cang3\Desktop\BkmOdev\BkmOdev\obj\Debug\netcoreapp3.1\Razor\Views\Home\List.cshtml.g.cs
+C:\Users\cang3\Desktop\BkmOdev\BkmOdev\obj\Debug\netcoreapp3.1\Razor\Views\Home\ListKategoriler.cshtml.g.cs
+C:\Users\cang3\Desktop\BkmOdev\BkmOdev\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\cang3\Desktop\BkmOdev\BkmOdev\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\cang3\Desktop\BkmOdev\BkmOdev\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\cang3\Desktop\BkmOdev\BkmOdev\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\cang3\Desktop\BkmOdev\BkmOdev\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\cang3\Desktop\BkmOdev\BkmOdev\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\cang3\Desktop\BkmOdev\BkmOdev\obj\Debug\netcoreapp3.1\BkmOdev.RazorTargetAssemblyInfo.cache
+C:\Users\cang3\Desktop\BkmOdev\BkmOdev\obj\Debug\netcoreapp3.1\BkmOdev.RazorTargetAssemblyInfo.cs
+C:\Users\cang3\Desktop\BkmOdev\BkmOdev\obj\Debug\netcoreapp3.1\BkmOdev.Views.pdb
+C:\Users\cang3\Desktop\BkmOdev\BkmOdev\obj\Debug\netcoreapp3.1\BkmOdev.csproj.CopyComplete
+C:\Users\cang3\Desktop\BkmOdev\BkmOdev\obj\Debug\netcoreapp3.1\BkmOdev.dll
+C:\Users\cang3\Desktop\BkmOdev\BkmOdev\obj\Debug\netcoreapp3.1\BkmOdev.pdb
+C:\Users\cang3\Desktop\BkmOdev\BkmOdev\obj\Debug\netcoreapp3.1\BkmOdev.genruntimeconfig.cache
+C:\Users\cang3\Desktop\BkmOdev\BkmOdev\obj\Debug\netcoreapp3.1\Razor\Views\Home\ListUrun.cshtml.g.cs
